@@ -3,3 +3,12 @@ build/
 *.out
 outDebug
 .vscode/
+
+install/
+log/
+
+__pycache__/
+*.pyc
+
+CMakeLists.txt.user
+.vscode/
