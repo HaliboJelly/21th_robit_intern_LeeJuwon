@@ -1,0 +1,5 @@
+traffic_light_node:
+  ros__parameters:
+    r_time: 7.0
+    g_time: 5.0
+    y_time: 0.0

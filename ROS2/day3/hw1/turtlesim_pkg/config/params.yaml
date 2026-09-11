@@ -1,0 +1,21 @@
+teleop_publisher:
+  ros__parameters:
+    tri_r: 0
+    tri_g: 255
+    tri_b: 0
+    tri_width: 6
+
+    rect_r: 10
+    rect_g: 23
+    rect_b: 57
+    rect_width: 25 
+
+    circle_r: 0
+    circle_g: 0
+    circle_b: 255
+    circle_width: 16 
+
+    star_r: 255
+    star_g: 255
+    star_b: 0
+    star_width: 3 

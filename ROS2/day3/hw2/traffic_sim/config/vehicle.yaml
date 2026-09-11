@@ -1,0 +1,7 @@
+vehicle_node:
+  ros__parameters:
+    speed: 100.0
+    stop_line: 300.0
+    spawn_period: 2.0
+    update_hz: 30.0
+    road_end: 90000.0
