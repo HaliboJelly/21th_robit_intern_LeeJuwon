@@ -1,0 +1,9 @@
+vehicle_node:
+  ros__parameters:
+    lane_count: 5
+    lane_speeds: [80.0, 120.0, 60.0, 100.0, 70.0]
+    stop_line: 360.0
+    spawn_period: 2.0
+    update_hz: 30.0
+    road_end: 780.0
+    speed_step: 0.2

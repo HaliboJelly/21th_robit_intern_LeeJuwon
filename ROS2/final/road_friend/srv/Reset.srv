@@ -1,0 +1,4 @@
+int32 deaths
+---
+int32 start_row
+int32 start_col

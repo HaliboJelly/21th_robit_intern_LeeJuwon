@@ -1,0 +1,6 @@
+player_node:
+  ros__parameters:
+    col_count: 13
+    col_width: 60.0
+    player_width: 60.0
+    car_width: 66.0
