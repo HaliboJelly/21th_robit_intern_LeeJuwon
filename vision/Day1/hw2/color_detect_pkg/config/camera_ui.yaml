@@ -1,0 +1,4 @@
+camera_node:
+  ros__parameters:
+    image_path: "images/sample.png"
+    period_ms: 100

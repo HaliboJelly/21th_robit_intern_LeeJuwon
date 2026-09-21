@@ -1,0 +1,4 @@
+camera_node:
+  ros__parameters:
+    device_num: 0
+    period_ms: 500  #카메라 hz 변환 필요함
