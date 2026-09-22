@@ -1,0 +1,9 @@
+detect_node:
+  ros__parameters:
+    dummy: 0
+
+distance_node:
+  ros__parameters:
+    ball_diameter: 0.060	# 공 지름
+    cam_height: 0.107	# 바닥부터 렌즈 중심 높이
+    tilt_deg: 0.0
