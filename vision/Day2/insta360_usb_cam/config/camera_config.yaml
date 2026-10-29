@@ -23,7 +23,7 @@
     auto_focus: false 
     zoom: -1
     pan: 0
-    tilt: -1
+    tilt: -108000
     rotate: -1
     horizontal_flip: false
     vertical_flip: false
