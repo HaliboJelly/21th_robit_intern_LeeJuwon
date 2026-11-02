@@ -1,0 +1,10 @@
+재생 속도 0.5x, 마지막 화면 1.0초 정지, 모든 영상은 평가와 같은 deterministic=True
+선정 기준: typical = 평가 보상이 20회 평균에 가장 가까운 에피소드, shortest = 가장 빨리 넘어진 에피소드
+base_seed0_typical_eval1018.mp4: 평가 보상 422.5, 80 스텝, 무게중심 속도 0.61 m/s (모델 평균 보상 418.6)
+base_seed0_shortest_eval1004.mp4: 평가 보상 365.5, 70 스텝, 무게중심 속도 0.52 m/s (모델 평균 보상 418.6)
+base_seed1_typical_eval1016.mp4: 평가 보상 449.4, 88 스텝, 무게중심 속도 0.41 m/s (모델 평균 보상 453.2)
+base_seed1_shortest_eval1012.mp4: 평가 보상 362.3, 73 스텝, 무게중심 속도 0.33 m/s (모델 평균 보상 453.2)
+ctrl001_seed0_typical_eval1002.mp4: 평가 보상 487.5, 95 스텝, 무게중심 속도 0.42 m/s (모델 평균 보상 490.0)
+ctrl001_seed0_shortest_eval1003.mp4: 평가 보상 402.0, 77 스텝, 무게중심 속도 0.52 m/s (모델 평균 보상 490.0)
+ctrl001_seed1_typical_eval1011.mp4: 평가 보상 449.0, 84 스텝, 무게중심 속도 0.62 m/s (모델 평균 보상 447.0)
+ctrl001_seed1_shortest_eval1005.mp4: 평가 보상 325.8, 63 스텝, 무게중심 속도 0.53 m/s (모델 평균 보상 447.0)
